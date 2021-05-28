@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "ale-bug-with-yarn-workspaces",
+  "workspaces": [
+    "react-app"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "PRIVATE"
+}
